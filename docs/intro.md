@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Tutorial Intro
 
+변경된 자료를 확인해 봐
+![이미지](image.png)
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
